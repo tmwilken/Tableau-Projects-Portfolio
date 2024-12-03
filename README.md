@@ -8,9 +8,9 @@ This repository contains a collection of Tableau projects that demonstrate my ex
 | YouTube Analytics Dashboard | Interactive dashboard to communicate insights on YouTube content performance | Design Principles, Visualizations, Time-Series Analysis, Storytelling, Interactive Dashboard |
 
 ## **Features of This Repository**
-- **Diverse Use Cases**: each project tackles real-worl problems across industries such as sales, marketing, and finance.
+- **Diverse Use Cases**: each project tackles real-world problems across industries such as sales, marketing, and finance.
 - **Interactive Dashboards**: Dashboards are designed with usability and clarity in mind, ensuring insights are easy to interpret.
-- **Documentation**: Each project folder includes a detailed write-up, dataset information, and links to Tableau Vizzes on Tableau Public.
+- **Documentation**: Each project folder includes a detailed write-up, dataset information, and links to Tableau visualizations on Tableau Public.
 
 ## **Getting Started**
 1. Clone this repository: git clone https://github.com/yourusername/Tableau-Projects-Portfolio.git
