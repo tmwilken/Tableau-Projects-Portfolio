@@ -1,0 +1,7 @@
+# **YouTube Analytics**
+## **Overview**
+This project uses Tableau to analyze and visualize YouTube data, focusing on key performance metrics such as views, engagement, and subscriber trends. The visualizations include a donut chart, line chart, and an interactive dashboard designed to provide actionable insights for understanding audience behavior and channel performance.
+## **Features**
+- **Donut Chart**: Displays the distribution of key metrics, such as video categories or engagement types (likes, comments, shares).
+Line Chart: Tracks trends over time, such as daily views, subscriber growth, or watch time.
+Interactive Dashboard: Combines multiple visualizations with filters to explore audience demographics, video performance, and engagement.
