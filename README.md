@@ -5,7 +5,7 @@ This repository contains a collection of Tableau projects that demonstrate my ex
 ## **Projects**
 | **Project** | **Description** | **Skills Demonstrated** |
 | ----------- | --------------- | ----------------------- |
-| YouTube Analytics Dashboard | Interactive dashboard to communicate insights on YouTube content performance | Design Principles, Visualizations, Time-Series Analysis, Storytelling, Interactive Dashboard |
+| [YouTube Analytics](https://github.com/tmwilken/Tableau-Projects-Portfolio/tree/bf437be364116be14a51cd5af14e9b65792e8828/YouTube-Analytics) | Interactive charts and dashboard to communicate insights on YouTube content performance | Design Principles, Visualizations, Time-Series Analysis, Storytelling, Interactive Dashboard |
 
 ## **Features of This Repository**
 - **Diverse Use Cases**: each project tackles real-world problems across industries such as sales, marketing, and finance.
